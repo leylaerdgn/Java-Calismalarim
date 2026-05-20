@@ -79,9 +79,6 @@ public class Student {
 ## Getter ve Setter Nedir?
 Private field’lara kontrollü erişmek için getter ve setter kullanılır.
 
-## Inheritance Nedir?
-Inheritance, kalıtım demektir.
-Bir class’ın başka bir class’tan özellik ve davranış almasıdır.
 
 ## super Nedir?
 super, parent class’ı temsil eder.
