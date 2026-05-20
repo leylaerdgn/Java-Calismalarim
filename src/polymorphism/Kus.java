@@ -1,4 +1,4 @@
-package inheritance.polymorphism;
+package polymorphism;
 
 public class Kus extends Hayvan {
 

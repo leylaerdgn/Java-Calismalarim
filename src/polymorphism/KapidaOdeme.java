@@ -1,5 +1,5 @@
 
-package inheritance.polymorphism;
+package polymorphism;
 
 public class KapidaOdeme extends Odeme{
     private String adres;

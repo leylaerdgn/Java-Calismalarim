@@ -1,5 +1,5 @@
 
-package inheritance.polymorphism;
+package polymorphism;
 
 //Bu üst sınıf. Ortak olan her şey burada.
 public class Odeme {

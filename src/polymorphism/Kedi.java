@@ -1,5 +1,5 @@
 
-package inheritance.polymorphism;
+package polymorphism;
 
 public class Kedi extends Hayvan{
     @Override

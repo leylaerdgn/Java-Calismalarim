@@ -1,5 +1,5 @@
 
-package inheritance.polymorphism;
+package polymorphism;
 
 public class KrediKartiOdeme extends Odeme{
     private String kartNo;

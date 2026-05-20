@@ -1,5 +1,5 @@
 
-package inheritance.polymorphism;
+package polymorphism;
 
 public class OdemeDemo {
     public static void main(String[] args) {
