@@ -1,6 +1,5 @@
 
-package abstraction;
-
+package abstraction.Calisan;
 public abstract class Calisan {
     String ad;
     

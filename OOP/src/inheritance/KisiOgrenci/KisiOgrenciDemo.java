@@ -1,6 +1,5 @@
 
-package inheritance;
-
+package inheritance.KisiOgrenci;
 public class KisiOgrenciDemo {
 
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 
-package inheritance;
+package inheritance.KisiOgrenci;
 
 public class Kisi {
     String ad;

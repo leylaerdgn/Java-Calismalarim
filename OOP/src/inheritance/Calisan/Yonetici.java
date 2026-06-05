@@ -1,5 +1,5 @@
 
-package inheritance;
+package inheritance.Calisan;
 
 public class Yonetici extends Calisan{
     int ekipSayisi;

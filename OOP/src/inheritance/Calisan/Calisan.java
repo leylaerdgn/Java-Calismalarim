@@ -1,4 +1,5 @@
-package inheritance;
+
+package inheritance.Calisan;
 
 public class Calisan {
 

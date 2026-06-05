@@ -1,6 +1,5 @@
 
-package abstraction;
-
+package abstraction.Calisan;
 public class SaatlikCalisan extends Calisan{
     int calisilanSaat;
     double saatUcreti;

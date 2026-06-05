@@ -1,5 +1,5 @@
 
-package inheritance;
+package inheritance.Calisan;
 
 public class sirketDemo {
     public static void main(String[] args) {

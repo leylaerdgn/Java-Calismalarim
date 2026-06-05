@@ -1,5 +1,5 @@
 
-package inheritance;
+package inheritance.KisiOgrenci;
 
 public class Ogrenci extends Kisi{
     int okulNo;

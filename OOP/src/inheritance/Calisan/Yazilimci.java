@@ -1,6 +1,5 @@
 
-package inheritance;
-
+package inheritance.Calisan;
 public class Yazilimci extends Calisan{
     String programlamaDili;
     
@@ -18,4 +17,4 @@ public class Yazilimci extends Calisan{
         System.out.println("Programlama Dili: " +programlamaDili);
     }
  }
-        
+      

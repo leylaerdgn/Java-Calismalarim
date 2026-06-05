@@ -1,6 +1,5 @@
 
-package abstraction;
-
+package abstraction.Calisan;
 public class TamZamanliCalisan extends Calisan{
     double aylikMaas;
     
