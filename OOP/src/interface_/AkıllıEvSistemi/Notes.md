@@ -68,3 +68,20 @@ uyguladığını bilir ve bu sayede turnOn() veya turnOff() metodlarını çağ�
 Böylece yeni bir cihaz eklendiğinde mevcut kodları değiştirmeden sisteme dahil edilebilir. 
 Polimorfizm, farklı nesneleri tek bir üst tür (interface veya abstract class) altında 
 toplayarak daha esnek, okunabilir ve genişletilebilir bir yapı kurulmasını sağlar.
+
+##Interface Burada Neden Güzel
+Düşün ki yarın yeni cihaz ekledin:
+class SmartDoor
+implements Switchable Kapı.
+
+Main'deki kodu değiştirmiyorsun.
+Sadece: new SmartDoor(...) ekliyorsun.
+Ve şu kod: for(Switchable s : switches) çalışmaya devam ediyor.
+Çünkü sistem cihazın ne olduğunu umursamıyor.
+Sadece: Açılıp kapanabiliyor musun? sorusunu soruyor.
+İşte interface'in en büyük amacı budur: Nesnenin ne olduğu ile değil, ne yapabildiği ile ilgilenmek.
+Bu projede özet:
+SmartDevice → ortak özellikler (isim, marka)
+Abstract class → "genel cihaz" kavramı
+Interface → yetenekler (açılmak, bağlanmak, kayıt yapmak)
+Polimorfizm → Switchable dizisi içinde farklı cihazları tek tip gibi kullanabilmek
