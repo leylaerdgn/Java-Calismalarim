@@ -9,6 +9,11 @@ public class basamakYazdir {
 
         // Önce kalan kısmı yazdır
         yazdir(n / 10);
+        //yazdir(1234)
+           // yazdir(123)
+             //   yazdir(12)
+               //     yazdir(1)
+                 //       yazdir(0)
 
         // Sonra son rakamı yazdır
         System.out.print(n % 10 + " ");
