@@ -1,6 +1,4 @@
 
-package staticandfinal;
-
 public class Ogrenci {
     String ad;
     int not;

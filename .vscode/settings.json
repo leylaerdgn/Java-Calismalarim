@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "OOP/src",
+        "RekursifMetot/src",
+        "Thread/src",
+        "static_final",
+        "ArrayList/src",
+        "GUI"
+    ]
+}
